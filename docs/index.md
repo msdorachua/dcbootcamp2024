@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# Welcome to the Tutorial Site
+# Welcome to Section 4 of DC Bootcamp 2024
 
 Select a topic to get started:
 
