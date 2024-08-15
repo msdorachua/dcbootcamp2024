@@ -8,7 +8,8 @@ title: "Home"
 ## Weekly Lessons
 
 - [Week 01](./week01/index.html)
-  - [Subpage 1](./week01/task_a.html)
+  - [Task A](./week01/task_a.html)
+  - [Task B](./week01/task_b.html)
 - [Week 02](./week02/index.html)
-  - [Subpage 2](./week02/task_a.html)
+  - [Task A](./week02/task_a.html)
 - [Week 03](./week03/index.html)
